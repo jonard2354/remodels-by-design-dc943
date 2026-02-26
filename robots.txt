@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://remodels-by-design-dc943.pages.dev/sitemap.xml
