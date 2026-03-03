@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jonard2354.github.io/remodels-by-design-dc943/sitemap.xml
+Sitemap: https://Gitcraftforge.github.io/remodels-by-design-dc943/sitemap.xml
